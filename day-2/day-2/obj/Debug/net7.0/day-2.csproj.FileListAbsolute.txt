@@ -1,0 +1,15 @@
+/home/daddy/git/advent-of-code/day-2/day-2/bin/Debug/net7.0/day-2
+/home/daddy/git/advent-of-code/day-2/day-2/bin/Debug/net7.0/day-2.deps.json
+/home/daddy/git/advent-of-code/day-2/day-2/bin/Debug/net7.0/day-2.runtimeconfig.json
+/home/daddy/git/advent-of-code/day-2/day-2/bin/Debug/net7.0/day-2.dll
+/home/daddy/git/advent-of-code/day-2/day-2/bin/Debug/net7.0/day-2.pdb
+/home/daddy/git/advent-of-code/day-2/day-2/obj/Debug/net7.0/day-2.csproj.AssemblyReference.cache
+/home/daddy/git/advent-of-code/day-2/day-2/obj/Debug/net7.0/day-2.GeneratedMSBuildEditorConfig.editorconfig
+/home/daddy/git/advent-of-code/day-2/day-2/obj/Debug/net7.0/day-2.AssemblyInfoInputs.cache
+/home/daddy/git/advent-of-code/day-2/day-2/obj/Debug/net7.0/day-2.AssemblyInfo.cs
+/home/daddy/git/advent-of-code/day-2/day-2/obj/Debug/net7.0/day-2.csproj.CoreCompileInputs.cache
+/home/daddy/git/advent-of-code/day-2/day-2/obj/Debug/net7.0/day-2.dll
+/home/daddy/git/advent-of-code/day-2/day-2/obj/Debug/net7.0/refint/day-2.dll
+/home/daddy/git/advent-of-code/day-2/day-2/obj/Debug/net7.0/day-2.pdb
+/home/daddy/git/advent-of-code/day-2/day-2/obj/Debug/net7.0/day-2.genruntimeconfig.cache
+/home/daddy/git/advent-of-code/day-2/day-2/obj/Debug/net7.0/ref/day-2.dll
